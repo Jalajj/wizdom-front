@@ -1,0 +1,119 @@
+.navTwo {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 26px 81.54px 19px 79px;
+    /* box-shadow: 0 12px 15px 0 rgba(160, 121, 0, 0.2); */
+    display: flex;
+    align-items: flex-start;
+  }
+  .navBar {
+    display: flex;
+    align-items: flex-start;
+  }
+  .wizdomqa {
+    height: 79.71%;
+    width: 17.71%;
+    font-family: "Inter";
+    font-size: 30px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(60, 72, 98, 1);
+    display: flex;
+    /* margin-top: 14px;
+    margin-right: 340.66px;
+    margin-left: 40px; */
+  }
+  .nav {
+    margin-top: 19px;
+    margin-right: 52.48px;
+    padding: 0 0 8px;
+    position: relative;
+  }
+  .home {
+    width: 100%;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgba(60, 72, 98, 1);
+    align-self: stretch;
+    margin-right: 56.38px;
+  }
+  .courses {
+    width: 100%;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(60, 72, 98, 1);
+    align-self: stretch;
+    margin-right: 56.37px;
+  }
+  .blog {
+    width: 100%;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(60, 72, 98, 1);
+    align-self: stretch;
+    margin-right: 56.37px;
+  }
+  .aboutUs {
+    width: 100%;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(60, 72, 98, 1);
+    align-self: stretch;
+    margin-right: 16.37px;
+  }
+  .contactUs {
+    width: 15.16%;
+    align-self: stretch;
+    object-fit: cover;
+  }
+  .line17 {
+    width: 4.51%;
+    height: 11.54%;
+    background: linear-gradient(
+      263deg,
+      rgba(11, 190, 242, 1) 1%,
+      rgba(255, 138, 0, 1) 96%
+    );
+    position: absolute;
+    left: 9.06px;
+    top: 26px;
+  }
+  .button2 {
+    border-radius: 4px;
+    background: linear-gradient(
+        251deg,
+        rgba(11, 190, 242, 1) 1%,
+        rgba(11, 190, 242, 1) 96%
+      );
+  
+    color: #fff;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+    /* Second Nav */
+    text-align: center;
+    padding-left: 30px;
+    padding-right:30px;
+    padding-top:5px;
+    padding-bottom: 5px;
+   width:150px;
+  }
+  .getAcess {
+    margin-top:10px;
+    width: 100%;
+   
+    font-size: 14px;
+    
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    align-self: stretch;
+  }

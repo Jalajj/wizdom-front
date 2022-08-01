@@ -1,0 +1,133 @@
+.features {
+    display: flex;
+    align-items: flex-start;
+  }
+ 
+  
+  .icons {
+    width: 92.11px;
+    height: 111.06px;
+    margin-bottom: 28.73px;
+    margin-left: 62px;
+  }
+  .unlimitedAccess {
+    height: 12.48%;
+    width: 100%;
+    /* font-family: "Proxima Nova"; */
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 37px;
+    color: rgba(60, 72, 98, 1);
+    display: flex;
+    text-align: center;
+    margin-bottom: 7.96px;
+    margin-left: 26px;
+  
+  }
+  .oneSubscriptionUnlimitedAccess {
+    height: 12.48%;
+    /* font-family: "Proxima Nova"; */
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(92, 92, 92, 1);
+    align-self: stretch;
+    display: flex;
+    text-align: center;
+   margin-left: 10px;
+  }
+  
+  .icon {
+    margin-bottom: 35.18px;
+    margin-left: 62px;
+    padding: 9.75px 0 0 19px;
+    position: relative;
+  }
+  .rectangle3 {
+    width: 150px;
+    height: 90.6%;
+    position: absolute;
+    left: -30px;
+    top: 0;
+  }
+  .group10 {
+    width: 105.52px;
+    height: 91.92px;
+    position: relative;
+  }
+  .expertTeachers {
+    height: 10.68%;
+    width: 62.31%;
+    /* font-family: "Proxima Nova"; */
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 37px;
+    color: rgba(60, 72, 98, 1);
+    display: flex;
+    text-align: center;
+    margin-bottom: 7.28px;
+    margin-left: 38px;
+  }
+  .learnFromIndustryExpertsWhoArePass {
+    height: 24.48%;
+    /* font-family: "Proxima Nova"; */
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(60, 72, 98, 1);
+    align-self: stretch;
+    display: flex;
+    width:80%;
+    text-align: center;
+  }
+  .iconTwo {
+    margin-bottom: 26.78px;
+    margin-left: 64px;
+    padding: 10.84px 0 0 25px;
+    position: relative;
+  }
+  .rectangle4 {
+    width: 150px;
+    height: 83.92%;
+    position: absolute;
+    left: -40px;
+    right:0px;
+    top: 0;
+  }
+  .group25 {
+    width: 97.81px;
+    height: 98.92px;
+    position: relative;
+  }
+  .learnAnywhere {
+    height: 16.55%;
+    width: 55.45%;
+    /* font-family: "Proxima Nova"; */
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 37px;
+    color: rgba(60, 72, 98, 1);
+    display: flex;
+    text-align: center;
+    margin-bottom: 0.8px;
+    margin-left: 40px;
+  }
+  .switchBetweenYourComputerTabletOr {
+    height: 20.02%;
+    /* font-family: "Proxima Nova"; */
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(92, 92, 92, 1);
+    align-self: stretch;
+    display: flex;
+    text-align: center;
+    width:80%;
+    margin-left:-10px;
+  }
+
+  @media (max-width: 500px) {
+    .feature-container{
+      flex-direction: column !important;
+    }
+  }

@@ -1,0 +1,22 @@
+.achievement-container{
+    padding-left:150px;
+    background: linear-gradient(259deg, rgba(229, 140, 138, 1) 1%,rgba(238, 192, 198, 1) 96% );
+    padding-top:40px;
+    padding-bottom: 40px;
+}
+
+.hash-10{
+    font-family: "Proxima Nova";
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 73px;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    text-align: center;
+}
+
+@media (max-width:500px){
+    .achievement-container{
+      padding:20px !important;
+    }
+}

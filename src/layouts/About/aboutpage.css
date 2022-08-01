@@ -1,0 +1,14 @@
+@media (max-width: 500px) {
+    .about-intro{
+        margin-top:50px !important;
+    }
+    .about-main-container{
+        padding: 10px !important;
+    }
+    .about-main{
+        margin-top: 40px !important;
+    }
+    .about-main-para{
+        width:100% !important;
+    }
+}

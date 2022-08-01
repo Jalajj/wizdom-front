@@ -1,0 +1,62 @@
+.headContainer {
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 10px;
+    padding: 10px 22px 14px 55px;
+    box-shadow: 0 12px 35px 0 rgba(160, 121, 0, 0.2);
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin: 20px;
+  }
+  .courseDetails {
+    width: 100%;
+    font-family: "Proxima Nova";
+    font-size: 14px;
+    font-weight: 900;
+    line-height: 25px;
+    color: rgba(92, 92, 92, 1);
+    align-self: stretch;
+    /* margin-right: 464px; */
+  }
+  .category {
+    width: 6.8%;
+    font-family: "Proxima Nova";
+    font-size: 14px;
+    font-weight: 900;
+    line-height: 25px;
+    color: rgba(92, 92, 92, 1);
+    align-self: stretch;
+    margin-right: 54px;
+  }
+  .type {
+    width: 3.62%;
+    font-family: "Proxima Nova";
+    font-size: 14px;
+    font-weight: 900;
+    line-height: 25px;
+    color: rgba(92, 92, 92, 1);
+    align-self: stretch;
+   
+      margin-right: 54px;
+    
+  }
+  .teacher {
+    width: 5.89%;
+    font-family: "Proxima Nova";
+    font-size: 14px;
+    font-weight: 900;
+    line-height: 25px;
+    color: rgba(92, 92, 92, 1);
+    align-self: stretch;
+    margin-right: 41px;
+  }
+  .rating {
+    width: 4.98%;
+    font-family: "Proxima Nova";
+    font-size: 14px;
+    font-weight: 900;
+    line-height: 25px;
+    color: rgba(92, 92, 92, 1);
+    align-self: stretch;
+    margin-right: 54px;
+  }

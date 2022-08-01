@@ -1,0 +1,51 @@
+.course {
+    /* background-color: rgba(196, 196, 196, 1); */
+    /* background: url(  
+     no-repeat; */
+    border-radius: 10px;
+    /* display: flex;
+    background-size: cover;
+    flex-direction: column; */
+    width:auto;
+    
+  }
+  .courseType {
+    background: linear-gradient(
+      245deg,
+      rgba(60, 72, 98, 1) 1%,
+      rgba(11, 190, 242, 1) 96%
+    );
+     width:150px;
+    margin-left: auto;
+    position: relative;
+    top:30px;
+    padding: 10px 0px 1px 23px;
+    display: flex;
+    border-radius: 4px;
+    
+    align-items: center;
+  }
+  .free {
+    /* font-family: "Proxima Nova"; */
+    font-size: 14px;
+    /* font-weight: 900; */
+    line-height: 21px;
+    color: rgba(255, 255, 255, 1);
+    flex: 1;
+    align-self: stretch;
+    text-align: justify;
+   
+  }
+  .courseInfo {
+    background: linear-gradient(
+      257deg,
+      rgba(60, 72, 98, 1) 1%,
+      rgba(11, 190, 242, 1) 96%
+    );
+    padding: 13px 10px 18px 30px;
+    display: flex;
+    
+    color:white;
+    align-items: flex-start;
+  }
+ 

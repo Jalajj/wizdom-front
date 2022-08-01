@@ -1,0 +1,133 @@
+.achievement {
+    background: linear-gradient(
+      259deg,
+      rgba(229, 140, 138, 1) 1%,
+      rgba(238, 192, 198, 1) 96%
+    );
+    /* padding: 81.94px 187px 57px 205px; */
+    padding-left:15%;
+    padding-bottom: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+  }
+  .vector {
+    width: 0.21%;
+    height: 1.5%;
+    background-color: rgba(255, 255, 255, 1);
+    margin-bottom: 70.68px;
+    margin-left: 421.8px;
+  }
+  .group88 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .group86 {
+    margin-top: 1px;
+    margin-right: 117px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .num5679 {
+    height: 53.95%;
+    font-family: "Proxima Nova";
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 73px;
+    color: rgba(255, 255, 255, 1);
+    align-self: stretch;
+    text-align: center;
+    margin-bottom: 12px;
+  }
+  .registeredStudents {
+    height: 30.26%;
+    width: 72.68%;
+    font-family: "Proxima Nova";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    text-align: center;
+  }
+  .group85 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+      margin-right: 117px;
+    
+  }
+  .studentHasBeenHelpedToAchieveTheir {
+    height: 30.26%;
+    width: 90.16%;
+    font-family: "Proxima Nova";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    text-align: center;
+  }
+  .group84 {
+    margin-top: 1px;
+    margin-right: 94px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .num10000 {
+    height: 48.24%;
+    font-family: "Proxima Nova";
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 73px;
+    color: rgba(255, 255, 255, 1);
+    align-self: stretch;
+    display: flex;
+    text-align: center;
+    margin-left:30px;
+    margin-bottom: 8px;
+  }
+  .moreThan10000PeopleVisitsOurSite {
+    height: 42.35%;
+    width: 98.91%;
+    font-family: "Proxima Nova";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    text-align: center;
+    margin-left:20px;
+  }
+  .num10 {
+    height: 47.67%;
+    width: 79.22%;
+    font-family: "Proxima Nova";
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 73px;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    text-align: center;
+    
+    
+    margin-left: 100px;
+  }
+  .rankedAmongTheTop10GrowingOnlineL {
+    height: 41.86%;
+    width:70%;
+    font-family: "Proxima Nova";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    align-self: stretch;
+    display: flex;
+    text-align: center;
+    margin-left:30px;
+  }

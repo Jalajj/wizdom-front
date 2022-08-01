@@ -1,0 +1,37 @@
+.nomad-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 1rem;
+  }
+  
+  form {
+    padding: 2rem;
+    text-align: center;
+   
+      width: 60%;
+    }
+  
+    .submit-btn {
+      display: flex;
+      justify-content: center;
+    }
+  
+    .submit {
+      width: 200px;
+    }
+
+    .form-error {
+        border: 1px solid red;
+      }
+
+      .nomad-btn {
+        display: block;
+        width: 100%;
+        line-height: 1.4;
+        padding-left: 5px;
+        padding-right: 5px;
+        white-space: normal;
+        margin-top: 0;
+        margin-bottom: 10px;
+        min-height: 44px;
+      }

@@ -1,0 +1,14 @@
+@media (max-width: 500px) {
+    .para-about{
+        margin:auto !important;
+    }
+    .para-about-title{
+        margin:auto !important;
+        margin-top: 40px !important;
+        width: 130% !important;
+    }
+    .para-about-subtitle{
+        width:100% !important;
+    }
+    
+}

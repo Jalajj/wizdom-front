@@ -1,0 +1,43 @@
+.hero-title{
+
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 158.34%;
+/* or 70px */
+color: #3C4862;
+}
+
+.hero-subtitle{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    
+    color: #3C4862;
+}
+
+@media (max-width: 500px) {
+    .hero-title{
+        margin:auto !important;
+        font-size: 30px !important;
+        width:110%;
+        margin-top: 40px !important;
+        text-align: center;
+       }
+       .hero-subtitle{
+           text-align: center;
+           margin: auto;
+           width:100% !important;
+       }
+     .button2{
+        margin-left: 20px;
+        margin-top: 20px;
+         text-align: center;
+     }
+     .hero-img{
+         height:50vh !important;
+         width:100vw !important;
+         margin-top:-250px;
+     }
+}
